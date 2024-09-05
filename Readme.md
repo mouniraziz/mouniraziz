@@ -1,5 +1,5 @@
 # 💫 About Me:
-👷 Ph.D. in Computer Science with over 5 years of experience in machine learning and deep learning.<br>👯 I’m looking to collaborate on few-shot learning research projects<br>🌱 I’m currently learning multimodel models
+👷 Ph.D. in Computer Science with over 5 years of experience in machine learning and deep learning.<br>👯 I’m looking to collaborate on few-shot learning research projects<br>🌱 I’m currently learning multimodel LLMs
 
 
 ## 🌐 Socials:
