@@ -66,12 +66,4 @@ Currently expanding my research into **multimodal foundation models and multimod
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mouniraziz\&theme=default\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mouniraziz\&theme=default\&hide_border=true)
-
----
-
 ⭐ Feel free to explore my repositories and research projects.
