@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mounir Aziz
+# 👋 Hi, I'm Mounir Abdelziz
 
 ### Ph.D. in Computer Science | Machine Learning Scientist | Deep Learning Researcher
 
